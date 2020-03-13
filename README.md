@@ -1,4 +1,4 @@
-# Robot_Application_Pepper
+# Robot_Application_Pepper, Python
 
 Robot application for introducing Mind Music Machine Lab
 
